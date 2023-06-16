@@ -10,7 +10,7 @@ const sound_t array_notification_sound[] = {
     {G4, 100}
 };
 
-// alarm sound array (Mortal Kobat OST)
+// alarm sound array (Mortal Kombat OST)
 const sound_t array_alarm_sound[] = {
     // 1st section
     {AA3, 200},
